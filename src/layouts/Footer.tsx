@@ -6,7 +6,7 @@ export default function Footer() {
       <div>
         <BsBookHalf className="text-5xl"/>
         <p>
-          <span className="text-2xl font-bold">BookVault</span>
+          <span className="text-2xl font-bold">Boinama</span>
           <br />
           Providing reliable book since 1992
         </p>
